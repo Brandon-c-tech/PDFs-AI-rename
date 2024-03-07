@@ -7,11 +7,11 @@ Imagine you have a folder full of PDF documents, and you're looking for a quick 
 
 Here's how it works:
 
-Read PDFs: The script scans a specified folder on your computer, looking for PDF files. It then reads the text from each PDF, pulling out the information that will inspire the new file names.
+1. **Read PDFs**: The script scans a specified folder on your computer, looking for PDF files. It then reads the text from each PDF, pulling out the information that will inspire the new file names.
 
-Generate Names: With the content of your PDFs in hand, the script sends a message to a smart AI service (think of it like a really intelligent wordsmith). This AI takes the content, thinks about it, and comes up with a short, catchy name for each file – no more than 15 characters long.
+2. **Generate Names**: With the content of your PDFs in hand, the script sends a message to a smart AI service (think of it like a really intelligent wordsmith). This AI takes the content, thinks about it, and comes up with a short, catchy name for each file – no more than 15 characters long.
 
-Rename Files: Once the AI has suggested new names, the script goes back to your folder and renames each PDF accordingly. Now, instead of generic names like "document1.pdf" or "report.pdf," you have meaningful, concise titles that reflect the content of each file.
+3. **Rename Files**: Once the AI has suggested new names, the script goes back to your folder and renames each PDF accordingly. Now, instead of generic names like "document1.pdf" or "report.pdf," you have meaningful, concise titles that reflect the content of each file.
 
 This script is perfect for anyone who wants to organize their digital files more efficiently or add a touch of creativity to their file naming process. It's a simple tool that can save you time and make your file management a little more enjoyable.
 
